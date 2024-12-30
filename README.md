@@ -1,7 +1,5 @@
 # Study and Paper Reading about Metagenomics using Deep Learning
 
----
-
 ## Study Section
 
 ### R Visualization
