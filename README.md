@@ -2,16 +2,16 @@
 
 ## Study Section
 
-### R Visualization
+### Pipline for Metagenomics
 
 ### Deep Learning Methods in Metagenomics
 
+### R Visualization
+
 ## Paper Reading Secion
 
-### Review in this field
+### Review
 
-### Single Cell
+### Single-Cell
 
-### Spatial Metagenomics
-
-### Spatial Metatranscriptomics
+### Spatial-Omics
