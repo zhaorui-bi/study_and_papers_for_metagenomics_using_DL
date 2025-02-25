@@ -22,8 +22,10 @@
 
 ### Pipline for Metagenomics
 
-### Deep Learning Methods in Metagenomics
+#### Assembly
 
-### Visualization
+#### Binning
+
+
 
 ## 
