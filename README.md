@@ -6,12 +6,10 @@
 
 ### Deep Learning Methods in Metagenomics
 
-### R Visualization
+### Visualization
 
 ## Paper Reading Secion
 
-### Review
+### Foundation Model
 
-### Single-Cell
-
-### Spatial-Omics
+- [DNABERT](https://github.com/zhaorui-bi/study_and_papers_for_metagenomics_using_DL/tree/main/Foundation-Model/DNABERT)
