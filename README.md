@@ -22,6 +22,8 @@
 
 ### Pipline for Metagenomics
 
+https://asa-blog.netlify.app/mindmap/
+
 #### Assembly
 
 #### Binning
