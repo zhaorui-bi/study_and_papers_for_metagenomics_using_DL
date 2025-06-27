@@ -4,14 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # Contents
-- [Foundation Model](#Foundation Model)
-  - [Drug Design](#drug-design)
-  - [Molecule Conformation Prediction](#molecule-conformation-prediction)
-  - [Molecular Dynamics Simulations](#molecular-dynamics-simulations)
-- [Proteins](#proteins)
-  - [Protein Structure Prediction](#protein-structure-prediction)
-  - [Protein Design](#protein-design)
-  - [Antibody Design](#antibody-design)
+- [Foundation Model](#Foundation-Model)
+  - [Genomics Language Model](#Genomics-Language-Model)
+  - [Protein Language Model](#Protein-Language-Model)
+
 
 # Papers
 
