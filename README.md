@@ -4,10 +4,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # Contents
-- [Foundation Model](#Foundation-Model)
-  - [Genomics Language Model](#Genomics-Language-Model)
-  - [Protein Language Model](#Protein-Language-Model)
 
+- Papers
+  - [Foundation Model](#Foundation-Model)
+    - [Genomics Language Model](#Genomics-Language-Model)
+    - [Protein Language Model](#Protein-Language-Model)
+- Study
+  - [Pipline for Metagenomics](#Pipline-for-Metagenomics)
+    - [Assembly](#Assembly)
+    - [Binning](#Binning)
 
 # Papers
 
