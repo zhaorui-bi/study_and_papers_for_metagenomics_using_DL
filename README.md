@@ -49,4 +49,4 @@ https://asa-blog.netlify.app/mindmap/
 
 ### Assembly
 
-#### Binning
+### Binning
