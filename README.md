@@ -19,6 +19,12 @@
 ## Foundation Model
 
 ### Genomics Language Model 
+
+**Evo: DNA foundation modeling from molecular to genome scale**      
+> Eric Nguyen https://orcid.org/0009-0008-6593-0707, Michael Poli, Matthew G. Durrant, Brian Kang, Dhruva Katrekar https://orcid.org/0000-0002-8028-3244, David B. Li https://orcid.org/0000-0002-8921-5168, Liam J. Bartie, Armin W. Thomas, Samuel H. King https://orcid.org/0000-0002-1260-5045, Garyk Brixi https://orcid.org/0000-0002-1253-0522, Jeremy Sullivan, Madelena Y. Ng https://orcid.org/0000-0003-3824-9349, Ashley Lewis, Aaron Lou, Stefano Ermon https://orcid.org/0000-0003-0039-2887, Stephen A. Baccus https://orcid.org/0000-0001-8692-5685, Tina Hernandez-Boussard https://orcid.org/0000-0001-6553-3455, Christopher Ré, Patrick D. Hsu https://orcid.org/0000-0002-9380-2648, and Brian L. Hie https://orcid.org/0000-0003-3224-8142 
+> Science 2024. [[Paper](https://www.science.org/doi/10.1126/science.ado9336)] [[Github](https://github.com/evo-design/evo)]\
+> 15 Nov 2024
+
 - [DNABERT](https://github.com/zhaorui-bi/study_and_papers_for_metagenomics_using_DL/tree/main/Foundation-Model/DNABERT)
 - [DNABERT-2](https://github.com/zhaorui-bi/study_and_papers_for_metagenomics_using_DL/tree/main/Foundation-Model/DNABERT-2)
 - [DNABERT-S](https://github.com/zhaorui-bi/study_and_papers_for_metagenomics_using_DL/tree/main/Foundation-Model/DNABERT-S)
