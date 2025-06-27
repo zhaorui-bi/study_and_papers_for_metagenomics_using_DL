@@ -21,7 +21,7 @@
 ### Genomics Language Model 
 
 **Evo: DNA foundation modeling from molecular to genome scale**      
-> Eric Nguyen, Michael Poli, Matthew G. Durrant, Brian Kang, Dhruva Katrekar, David B. Li, Liam J. Bartie, Armin W. Thomas, Samuel H. King, Garyk Brixi , Jeremy Sullivan, Madelena Y. Ng, Ashley Lewis, Aaron Lou, Stefano Ermon, Stephen A. Baccus, Tina Hernandez-Boussard, Christopher Ré, Patrick D. Hsu, and Brian L. Hie\
+> Eric Nguyen<sup>1</sup>, Michael Poli<sup>1</sup>, Matthew G. Durrant<sup>1</sup>, Brian Kang<sup>1</sup>, Dhruva Katrekar<sup>1</sup>, David B. Li<sup>1</sup>, Liam J. Bartie, Armin W. Thomas, Samuel H. King, Garyk Brixi , Jeremy Sullivan, Madelena Y. Ng, Ashley Lewis, Aaron Lou, Stefano Ermon, Stephen A. Baccus, Tina Hernandez-Boussard, Christopher Ré, Patrick D. Hsu*, and Brian L. Hie*\
 > Science 2024. [[Paper](https://www.science.org/doi/10.1126/science.ado9336)] [[Github](https://github.com/evo-design/evo)]\
 > 15 Nov 2024
 
