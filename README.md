@@ -40,6 +40,11 @@
 > Science 2024. [[Paper](https://www.science.org/doi/10.1126/science.ado9336)] [[Github](https://github.com/evo-design/evo)]\
 > 15 Nov 2024
 
+**HyenaDNA**  
+> \
+> . [[Paper]()] [[Github]()]\
+>
+
 **DNABERT**  
 > \
 > . [[Paper]()] [[Github]()]\
@@ -56,11 +61,6 @@
 >
 
 **GROVER**  
-> \
-> . [[Paper]()] [[Github]()]\
->
-
-**HyenaDNA**  
 > \
 > . [[Paper]()] [[Github]()]\
 >
