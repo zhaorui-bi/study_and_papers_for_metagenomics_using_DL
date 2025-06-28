@@ -108,7 +108,7 @@
 
 ## Pipline for Metagenomics
 
-https://asa-blog.netlify.app/mindmap/
+[Foundation for Bioninfromatics](https://asa-blog.netlify.app/mindmap/)_
 
 ### Assembly
 
