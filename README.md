@@ -9,6 +9,8 @@
   - [Foundation Model](#Foundation-Model)
     - [Genomics Language Model](#Genomics-Language-Model)
     - [Protein Language Model](#Protein-Language-Model)
+  - [Benchmarking Methods](#Benchmarking-Methods)
+  - [Datasets](#Datasets)
 - Study
   - [Pipline for Metagenomics](#Pipline-for-Metagenomics)
     - [Assembly](#Assembly)
